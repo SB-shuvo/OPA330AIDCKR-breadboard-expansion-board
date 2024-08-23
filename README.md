@@ -7,6 +7,6 @@ The PDF file to manufacture the single-layer PCB has the top copper on the first
 - The main project file is the file ending with (.PrjPcb)
 - .PcbLib files have the necessary PCB Footprints
 - .SchLib files have the Schematic Symbols
-- SchDoc file has the main Circuit Diagram
+- .SchDoc file has the main Circuit Diagram
 
 ![image](https://github.com/user-attachments/assets/dd5d00cd-260f-435f-9f88-065ae7a57330)
